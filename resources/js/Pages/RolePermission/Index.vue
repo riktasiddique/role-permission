@@ -3,7 +3,6 @@ import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout.vue';
 import { Head } from '@inertiajs/inertia-vue3';
 import { Link } from '@inertiajs/inertia-vue3'
 </script>
-
 <template>
     <Head title="Action Buttons " />
    <p class='text-center mt-5 text-cyan-500'>Manage roles and permissions from here</p>

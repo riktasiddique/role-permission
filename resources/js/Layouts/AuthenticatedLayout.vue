@@ -34,7 +34,6 @@ const showingNavigationDropdown = ref(false);
                                 </NavLink>
                             </div>
                         </div>
-
                         <div class="hidden sm:flex sm:items-center sm:ml-6">
                             <!-- Settings Dropdown -->
                             <div class="ml-3 relative">
